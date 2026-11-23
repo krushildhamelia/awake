@@ -1,0 +1,12 @@
+target/
+*.jar
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+Thumbs.db
+Desktop.ini
